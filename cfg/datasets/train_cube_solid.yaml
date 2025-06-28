@@ -1,0 +1,9 @@
+path: datasets
+train: data_cube_solid/train # train images 4200 images
+val: data_cube_solid/val # val images 1800 images
+
+nc: 1
+
+# Classes
+names:
+  0: cubes

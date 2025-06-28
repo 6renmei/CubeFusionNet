@@ -1,0 +1,9 @@
+path: datasets
+train: data_cube_solid_messy200/train  # train images 4400 images
+val: data_cube_solid_messy200/val  # val images 1850 images
+
+nc: 1
+
+# Classes
+names:
+  0: cubes
